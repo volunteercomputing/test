@@ -1,1 +1,10 @@
-test
+贡献者名单 (new)
+
+name (N), 
+email (E), 
+web-address(W), 
+PGP key ID and fingerprint (P), 
+description (D), and
+snail-mail address (S)
+
+https://github.com/torvalds/linux/blob/master/CREDITS
