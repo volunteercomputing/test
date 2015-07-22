@@ -9,3 +9,5 @@ categories:
 img: mobile-thinking.png
 thumb: small.png
 ---
+
+[link to equn!](http://equn.com)
