@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER alaudadoc alaudadoc@alauda.cn
+MAINTAINER Gavin.H hxhg1@hotmail.com
 
 RUN apt-get update && apt-get install -y nodejs
 EXPOSE 80
